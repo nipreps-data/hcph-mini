@@ -1,0 +1,20 @@
+{
+  "onset": {
+    "Description": "Onset of the event",
+    "Units": "s"
+  },
+  "duration": {
+    "Description": "Duration of the event",
+    "Units": "s" 
+  },
+  "trial_type": {
+    "Description": "The type of event",
+    "Levels": {
+      "et-record-on": "Eye-tracker recording started",
+      "et-record-off": "Eye-tracker recording stopped",
+      "fixation-point": "A fixation point is shown on a black screen",
+      "instructions-text": "A text describing the run is shown",
+      "movie": "A naturalistic scenes timelapse is shown (no auditive stimuli)"
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "AcquisitionNumber": 1,
+  "BaseResolution": 146,
+  "BodyPartExamined": "BRAIN",
+  "CoilCombinationMethod": "Adaptive Combine",
+  "CoilString": "HeadNeck_64",
+  "ConversionSoftware": "dcm2niix",
+  "ConversionSoftwareVersion": "v1.0.20220720",
+  "DeviceSerialNumber": "67014",
+  "DiffusionScheme": "Monopolar",
+  "DwellTime": 2.1e-06,
+  "FlipAngle": 90,
+  "HeudiconvVersion": "1.0.0",
+  "ImageType": [
+    "ORIGINAL",
+    "PRIMARY",
+    "DIFFUSION",
+    "NONE",
+    "ND",
+    "MFSPLIT"
+  ],
+  "ImageTypeText": [
+    "ORIGINAL",
+    "PRIMARY",
+    "DIFFUSION",
+    "NONE"
+  ],
+  "ImagingFrequency": 123.248,
+  "InPlanePhaseEncodingDirectionDICOM": "ROW",
+  "InstitutionAddress": "Rue du Bugnon 21,Lausanne,District,CH,1011",
+  "InstitutionName": "CHUV",
+  "MRAcquisitionType": "2D",
+  "MagneticFieldStrength": 3,
+  "Manufacturer": "Siemens",
+  "ManufacturersModelName": "MAGNETOM Prisma Fit",
+  "Modality": "MR",
+  "MultibandAccelerationFactor": 3,
+  "NonlinearGradientCorrection": false,
+  "ParallelReductionFactorInPlane": 2,
+  "PartialFourier": 0.875,
+  "PatientPosition": "HFS",
+  "PercentSampling": 100,
+  "PhaseEncodingDirection": "i",
+  "PhaseResolution": 1,
+  "PixelBandwidth": 1631,
+  "ProcedureStepDescription": "RESEARCH Oscar",
+  "ReceiveCoilName": "HeadNeck_64",
+  "ScanOptions": "PFP\\FS\\PER",
+  "ScanningSequence": "GR\\EP",
+  "SequenceVariant": "SK",
+  "SliceThickness": 1.6,
+  "SoftwareVersions": "syngo MR XA30",
+  "SpacingBetweenSlices": 1.6,
+  "StationName": "LRG10884",
+  "dcmmeta_reorient_transform": [
+    [
+      0.0,
+      -1.0,
+      0.0,
+      145.0
+    ],
+    [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      -1.0,
+      86.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "dcmmeta_slice_dim": 2,
+  "dcmmeta_version": 0.6,
+  "Deltas": [
+    0.0272,
+    0.0469
+  ]
+}

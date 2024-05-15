@@ -1,0 +1,103 @@
+{
+  "AcquisitionMatrixPE": 146,
+  "AcquisitionNumber": 1,
+  "BandwidthPerPixelPhaseEncode": 19.569,
+  "BaseResolution": 146,
+  "BodyPartExamined": "BRAIN",
+  "CoilCombinationMethod": "Adaptive Combine",
+  "CoilString": "HeadNeck_64",
+  "ConversionSoftware": "dcm2niix",
+  "ConversionSoftwareVersion": "v1.0.20220720",
+  "DerivedVendorReportedEchoSpacing": 0.000700017,
+  "DeviceSerialNumber": "67014",
+  "DiffusionScheme": "Monopolar",
+  "DwellTime": 2.1e-06,
+  "EchoTime": 0.098,
+  "EchoTrainLength": 64,
+  "EffectiveEchoSpacing": 0.000350008,
+  "FlipAngle": 90,
+  "HeudiconvVersion": "1.0.0",
+  "ImageType": [
+    "ORIGINAL",
+    "PRIMARY",
+    "DIFFUSION",
+    "NONE",
+    "ND",
+    "MFSPLIT"
+  ],
+  "ImageTypeText": [
+    "ORIGINAL",
+    "PRIMARY",
+    "DIFFUSION",
+    "NONE"
+  ],
+  "ImagingFrequency": 123.248,
+  "InPlanePhaseEncodingDirectionDICOM": "COL",
+  "InstitutionAddress": "Rue du Bugnon 21,Lausanne,District,CH,1011",
+  "InstitutionName": "CHUV",
+  "MRAcquisitionType": "2D",
+  "MagneticFieldStrength": 3,
+  "Manufacturer": "Siemens",
+  "ManufacturersModelName": "MAGNETOM Prisma Fit",
+  "Modality": "MR",
+  "MultibandAccelerationFactor": 3,
+  "NonlinearGradientCorrection": false,
+  "ParallelReductionFactorInPlane": 2,
+  "PartialFourier": 0.875,
+  "PatientPosition": "HFS",
+  "PercentPhaseFOV": 100,
+  "PercentSampling": 100,
+  "PhaseEncodingDirection": "j-",
+  "PhaseEncodingSteps": 146,
+  "PhaseResolution": 1,
+  "PixelBandwidth": 1631,
+  "ProcedureStepDescription": "RESEARCH Oscar",
+  "ProtocolName": "dwi-dwi_acq-highres_dir-AP__trigger_monopolar",
+  "PulseSequenceDetails": "%CustomerSeq%\\ep2d_diff_trigg",
+  "ReceiveCoilName": "HeadNeck_64",
+  "ReconMatrixPE": 146,
+  "RefLinesPE": 54,
+  "RepetitionTime": 7,
+  "ScanOptions": "PFP\\FS\\PER",
+  "ScanningSequence": "GR\\EP",
+  "SequenceName": "ep_b0",
+  "SequenceVariant": "SK",
+  "SeriesDescription": "dwi-dwi_acq-highres_dir-AP__trigger_monopolar",
+  "SliceThickness": 1.6,
+  "SoftwareVersions": "syngo MR XA30",
+  "SpacingBetweenSlices": 1.6,
+  "StationName": "LRG10884",
+  "TotalReadoutTime": 0.0507512,
+  "dcmmeta_reorient_transform": [
+    [
+      0.0,
+      -1.0,
+      0.0,
+      145.0
+    ],
+    [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      -1.0,
+      86.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "dcmmeta_slice_dim": 2,
+  "dcmmeta_version": 0.6,
+  "Deltas": [
+    0.0233,
+    0.0475
+  ]
+}

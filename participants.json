@@ -1,0 +1,14 @@
+{
+  "participant_id": {
+    "Description": "Participant identifier"
+  },
+  "age": {
+    "Description": "Age in years at the onset of the dataset collection (i.e., disregarding piloting sessions)"
+  },
+  "sex": {
+    "Description": "Biological sex, self-reported by the participants"
+  },
+  "group": {
+    "Description": "Not applicable"
+  }
+}

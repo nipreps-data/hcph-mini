@@ -1,0 +1,43 @@
+{
+  "onset": {
+    "Description": "Onset of the event",
+    "Units": "s"
+  },
+  "duration": {
+    "Description": "Duration of the event",
+    "Units": "s" 
+  },
+  "trial_type": {
+    "Description": "The type of event",
+    "Levels": {
+      "green": "Breath-in of the mock block of the breath holding task (BHT)",
+      "yellow": "Breath-out of the mock block of BHT",
+      "light-green": "The last breath-in of the mock block in BHT is highlighted by a lighter green.",
+      "gold": "The last breath-in of the mock block in BHT is highlighted by a different shade of yellow.",
+      "red": "Breath-hold of the mock block in BHT",
+      "lighred" : "2 last seconds of breath-hold in the mock block of BHT",
+      "end-message": "Message annoucing end of the mock block in the BHT",
+      "in": "Breath-in in the BHT",
+      "out": "Breath-out in the BHT",
+      "in-last": "Last breath-in of a BHT block",
+      "out-last": "Last breath-out of a BHT block",
+      "hold": "Breath-hold in the BHT",
+      "hold-warning": "The last 2 seconds of breath-hold are highlighted with a lighter shade.",
+      "refractory": "The participant can breath freely to recuperate.",
+      "et-record-on": "Eye-tracker recording started",
+      "et-record-off": "Eye-tracker recording stopped"
+    }
+  },
+  "value": {
+    "Description": "Extra information needed to fully characterize the event",
+    "Levels": {
+      "mock": "Mock trial in BHT",
+      "block1": "First block of the BHT",
+      "block2": "Second block of the BHT",
+      "block3": "Third block of the BHT",
+      "block4": "Fourth block of the BHT",
+      "block5": "Fifth block of the BHT",
+      "n/a": "Not-available, value is not set for the trial type"
+    }
+  }
+}

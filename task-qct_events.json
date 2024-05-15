@@ -1,0 +1,30 @@
+{
+  "onset": {
+    "Description": "Onset of the event",
+    "Units": "s"
+  },
+  "duration": {
+    "Description": "Duration of the event",
+    "Units": "s" 
+  },
+  "trial_type": {
+    "Description": "The type of event",
+    "Levels": {
+      "blank": "This event is part of the quality control task (QCT), in this event the participant is asked to fix the fixation point in the center.",
+      "cog": "During this block, the participant has to follow the fixation point that moves into 7 different locations with their eyes",
+      "mot": "QCT's fingertapping block",
+      "vis": "QCT's visual stimulation block, displaying a grating pattern",
+      "et-record-on": "Eye-tracker recording started",
+      "et-record-off": "Eye-tracker recording stopped"
+    }
+  },
+  "value": {
+    "Description": "Extra information needed to fully characterize the event",
+    "Levels": {
+      "(x,y)": "Coordinate of the point in the gaze movement event.",
+      "R": "Right hand fingertapping",
+      "L": "Left hand fingertapping",
+      "n/a": "Not-available, value is not set for the trial type"
+    }
+  }
+}
