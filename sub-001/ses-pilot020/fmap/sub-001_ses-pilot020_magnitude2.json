@@ -1,0 +1,40 @@
+{
+  "AcquisitionMatrixPE": 114,
+  "AcquisitionTime": "18:13:37.160000",
+  "B0FieldIdentifier": "pilot020phasediff",
+  "BaseResolution": 114,
+  "DwellTime": 3.6e-06,
+  "ImageOrientationPatientDICOM": [
+    0.99972,
+    0.0232755,
+    -0.00428653,
+    -0.0233852,
+    0.943618,
+    -0.33021
+  ],
+  "PhaseEncodingDirection": "j",
+  "PhaseEncodingSteps": 114,
+  "PixelBandwidth": 1218,
+  "ProcedureStepDescription": "RESEARCH Oscar",
+  "ReceiveCoilActiveElements": "HC1-7",
+  "ReconMatrixPE": 114,
+  "RepetitionTime": 0.324,
+  "SAR": 0.117736,
+  "SeriesNumber": 13,
+  "ShimSetting": [
+    8229,
+    -5618,
+    -6014,
+    673,
+    -71,
+    -284,
+    0,
+    1
+  ],
+  "SliceTiming": [
+    74.846, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+    0, 0, 0, 0, 0, 0, 0
+  ],
+  "TxRefAmp": 247.631
+}
